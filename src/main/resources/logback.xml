@@ -20,7 +20,7 @@
         </encoder>
     </appender>
 
-    <logger name="isthatkirill.FileConverterBot" level="debug" additivity="false">
+    <logger name="isthatkirill.fileConverterBot" level="debug" additivity="false">
         <appender-ref ref="FILE-ROLLING"/>
     </logger>
 

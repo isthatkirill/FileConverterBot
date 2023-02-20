@@ -1,6 +1,6 @@
-package isthatkirill.FileConverterBot.config;
+package isthatkirill.fileConverterBot.config;
 
-import isthatkirill.FileConverterBot.service.TelegramBot;
+import isthatkirill.fileConverterBot.service.TelegramBot;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
